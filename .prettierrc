@@ -1,0 +1,15 @@
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "semi": true,
+  "trailingComma": "all",
+  "arrowParens": "always",
+  "overrides": [
+    {
+      "files": "*.{js,jsx,tsx,ts,json,html}",
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
